@@ -1,0 +1,495 @@
+
+<!DOCTYPE html>
+<html lang="ja"><!-- InstanceBegin template="/Templates/templates.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta charset="utf-8">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>会社案内｜日本シーレーク株式会社</title>
+<!-- InstanceEndEditable -->
+
+<meta name="description" content="日本シーレーク株式会社は、非破壊検査技術を用いて多数の工業設備、製品の保全業務に携わる会社です。放射線検査、超音波検査をはじめ、鉄道や工場、船舶など、インフラや設備の安全性を守るために、検査・品質保証の技術を磨いています。">
+<meta name="keywords" content="日本シーレーク,非破壊検査,放射線,超音波,船舶,余寿命診断,プラント,工場">
+
+
+<meta http-equiv="X-Frame-Options" content="sameorigin">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width,user-scalable=yes,maximum-scale=1">
+<meta name="format-detection" content="telephone=no">
+<link rel="shortcut icon" href="/assets/img/common/favicon.ico">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/normalize/3.0.3/normalize.min.css">
+<link rel="stylesheet" href="/assets/css/import.css">
+<link rel="stylesheet" href="/assets/css/company.css">
+<!--[if gte IE 9]><!-->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<!--<![endif]-->
+<!--[if lt IE 9]>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="//cdn.jsdelivr.net/g/selectivizr@1.0.3b,html5shiv@3.7.3"></script>
+<![endif]-->
+<!-- InstanceBeginEditable name="other" -->
+<!-- InstanceEndEditable -->
+<!-- InstanceParam name="id" type="text" value="company" -->
+<!-- InstanceParam name="class" type="text" value="index" -->
+<!-- InstanceParam name="meta" type="text" value="common" -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-10955411-64', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script>
+</head>
+<body id="company" class="index sp-body">
+
+<header id="header">
+  <div class="sp-header sp-only ">
+  <h1><a href="/sp/"><img src="/assets/img/common/header-logo-sp.png" alt="日本シーレーク株式会社"></a></h1>
+  <div class="menuicon-btn">
+    <div class="menuicon-btn-inner">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </div>
+  <div class="global-nav">
+    <ul>
+      <li><a href="/sp/">TOP</a></li>
+      <li><a href="/works/">事業内容</a></li>
+      <li><a href="/company/">会社案内</a></li>
+      <li><a href="/office/">事業所案内</a></li>
+      <li><a href="/recruit/">採用情報</a></li>
+      <li><a href="/contact/">お問い合わせ</a></li>
+      <li><a href="/privacy/">個人情報保護方針</a></li>      
+    </ul>
+    <div class="sp-search">
+      <form action="/search/index.html" id="cse-search-box">
+        <input type="hidden" name="cx" value="005857097352551356246:msfwtsb4mr4">
+        <input type="hidden" name="ie" value="utf-8">
+        <input type="text" name="q"><input type="submit" name="sa" value="">
+      </form>
+      <script src="//www.google.com/cse/brand?form=cse-search-box&lang=ja"></script>
+    </div>
+    <p class="sp-english-btn"><a href="/en/index.html">ENGLISH</a></p>
+  </div>
+  </div>
+
+
+  <div class="pc-only">
+  <p class="header-logo"><a href="/"><img src="/assets/img/common/header-logo.png" width="180" height="50" alt="日本シーレーク株式会社"></a></p>
+  <div class="header-inner">
+    <p class="header-copy">日本シーレーク株式会社は、非破壊検査を中心とした検査技術で産業を支えます。</p>
+    <p class="header-en">・<a href="/en/index.html">ENGLISH</a></p>
+    <form action="/search/index.html" id="cse-search-box">
+      <input type="hidden" name="cx" value="005857097352551356246:msfwtsb4mr4">
+      <input type="hidden" name="ie" value="utf-8">
+      <input type="text" name="q"><input type="submit" name="sa" value="検索">
+    </form>
+    <script src="//www.google.com/cse/brand?form=cse-search-box&lang=ja"></script>
+  </div>
+  <nav>
+    <ul>
+      <li><a href="/">ホーム</a></li>
+      <li><a href="/works/">事業内容</a></li>
+      <li><a href="/company/">会社案内</a></li>
+      <li><a href="/office/">事業所案内</a></li>
+      <li><a href="/recruit/">採用情報</a></li>
+      <li><a href="/contact/">お問い合わせ</a></li>
+    </ul>
+  </nav>
+ </div> 
+</header><!-- End header -->
+
+
+<div id="container">
+
+
+  <main id="main" class="clearfix">
+    <article id="article">
+
+      <!-- InstanceBeginEditable name="main" -->
+      <h1 class="title-01">会社案内<span>COMPANY</span></h1>
+      <p class="topic-path"><a href="/">HOME</a> &gt; 会社案内</p>
+      <div class="contents">
+        <section class="company-greeting">
+          <h2>
+            日本シーレーク株式会社は<br>社会資産の保全と創造に貢献します。
+          </h2>
+          <figure>
+            <img class="pc-only" src="/assets/img/company/img-01.jpg" width="270" height="401" alt="">
+            <img class="sp-only" src="/assets/img/company/img-01-sp.jpg" alt="">
+          </figure>
+          <p>
+            弊社は昭和37年創業以来、非破壊検査技術を用いて多数の工場の設備、製品の保全業務に携わってまいりました。いずれの技術もそうであるように、非破壊検査技術も多種多様な新技術が開発されてきました。<br>
+            その新技術と弊社独自の技術を融合されるべく、日夜研さんに励み今日に至っています。その成果として産業界の安全にいくばくかの貢献ができたものと自負しております。<br>
+            しかしながら脱炭素化や再生可能エネルギーに代表されるように、産業界だけでなく社会全体において、環境や安全により配慮したものが求められております。それに伴い産業インフラ・社会インフラの保全にも新たな付加価値を期待されています。私たちはその期待に応え、世の中の安全安心の向上に寄与するために検査技術の更なる発展に努め、持続可能な社会を形成する一員としてこれからも邁進してまいります。
+          </p>
+          
+          <p class="company-ceo"><span>代表取締役社長</span>福馬　雅之</p>
+
+          <p><img src="/assets/img/company/img-02.jpg" width="960" height="400" alt="社是"></p>
+        </section>
+        <section class="company-profile" id="profile">
+          <h2>会社概要</h2>
+          <table class="table-01">
+            <tr>
+              <th>名称</th>
+              <td>日本シーレーク株式会社<br>
+              NIHON SEALAKE CO., LTD.</td>
+            </tr>
+            <tr>
+              <th>住所</th>
+              <td>〒731-3169<br>
+                広島市安佐南区伴西一丁目6番11号<br>
+                TEL：（082）849-5900<br>
+              FAX：（082）849-5912</td>
+            </tr>
+            <tr>
+              <th>資本金</th>
+              <td>10,000千円</td>
+            </tr>
+            <tr>
+              <th>代表者</th>
+              <td>代表取締役社長　福馬　雅之</td>
+            </tr>
+            <tr>
+              <th>従業員数</th>
+              <td>245名（役員・臨時社員除く）　2024年9月1日　現在</td>
+            </tr>
+            <tr>
+              <th>設立</th>
+              <td>1962年（昭和37年）10月22日</td>
+            </tr>
+            <tr>
+              <th>取引銀行</th>
+              <td>
+                広島銀行西風新都支店<br>
+                山陰合同銀行広島西支店<br>
+                四国銀行広島支店<br>
+                三菱UFJ銀行広島中央支店
+              </td>
+            </tr>
+            <tr>
+              <th>審査登録</th>
+              <td>
+                <a href="http://www.jwes.or.jp/" target="_blank">一般社団法人　日本溶接協会（CIW認定）（WES-8701）</a><br>
+                <a href="https://jmaqa.jma.or.jp/" target="_blank">一般社団法人　日本能率協会（ISO9001認証）</a><br>
+                一般財団法人　日本海事協会（NK）<br>
+                アメリカ船級協会（ABS）<br>
+                フランス船級協会（BV）<br>
+                ロイド（イギリス）船級協会（LR）
+              </td>
+            </tr>
+            <tr>
+              <th>関係団体</th>
+              <td>
+                <a href="http://www.jsndi.jp/" target="_blank">一般社団法人　日本非破壊検査協会</a><br>
+                <a href="https://www.jandt.or.jp/" target="_blank">一般社団法人　日本非破壊検査工業会</a><br>
+                <a href="https://www.zenkikyo.or.jp/" target="_blank">一般財団法人　全国危険物安全協会</a><br>
+                <a href="https://www.ciw.gr.jp/" target="_blank">一般社団法人　CIW検査業協会</a><br>
+                <a href="https://jrji.jp/" target="_blank">公益社団法人　日本鉄筋継手協会</a>
+              </td>
+            </tr>
+            <tr>
+              <th>関連会社</th>
+              <td><a href="https://www.chugai-tec.co.jp/" target="_blank">中外テクノス株式会社</a></td>
+            </tr>
+          </table>
+        </section>
+        <section class="company-history" id="history">
+          <h2>沿革</h2>
+          <table class="table-01">
+            <tr>
+              <th>昭和37年
+              <span>1962年</span></th>
+              <td>10月</td>
+              <td>広島市幟町１番地に於いて非破壊検査業務を開始</td>
+            </tr>
+            <tr>
+              <th>昭和42年
+              <span>1967年</span></th>
+              <td>4月</td>
+              <td>三原事業所（現東部支店）を三原市に開設</td>
+            </tr>
+            <tr>
+              <th>昭和43年
+              <span>1968年</span></th>
+              <td>4月</td>
+              <td>徳山事業所（現西部支店）を徳山市に開設</td>
+            </tr>
+            <tr>
+              <th>昭和44年
+              <span>1969年</span></th>
+              <td>4月</td>
+              <td>九州出張所（現九州営業所）を北九州市に開設</td>
+            </tr>
+            <tr>
+              <th>昭和45年
+              <span>1970年</span></th>
+              <td>4月</td>
+              <td>岩国営業所（現岩国支店）を岩国市に開設</td>
+            </tr>
+            <tr>
+              <th>昭和46年
+              <span>1971年</span></th>
+              <td>8月</td>
+              <td>志和工場（放射性同位元素格納庫及び検査工場）を東広島市に設置</td>
+            </tr>
+            <tr>
+              <th>昭和49年
+              <span>1974年</span></th>
+              <td>8月</td>
+              <td>事業部門の拡充に伴い本社を広島市祇園町大字長束1289-4に移転</td>
+            </tr>
+            <tr>
+              <th>昭和50年
+              <span>1975年</span></th>
+              <td>5月</td>
+              <td>水島出張所（現岡山支店）を倉敷市に開設</td>
+            </tr>
+            <tr>
+              <th>昭和56年
+              <span>1981年</span></th>
+              <td>11月</td>
+              <td>広島市に中央支店を開設</td>
+            </tr>
+            <tr>
+              <th>昭和58年
+              <span>1983年</span></th>
+              <td>4月</td>
+              <td>宇部出張所（現宇部営業所）を宇部市に開設</td>
+            </tr>
+            <tr>
+              <th>昭和59年
+              <span>1984年</span></th>
+              <td>5月</td>
+              <td>放射性同位元素格納庫及び検査工場を千葉出張所に設置</td>
+            </tr>
+            <tr>
+              <th>昭和61年
+              <span>1986年</span></th>
+              <td>9月</td>
+              <td>本社社屋を安佐南区祇園一丁目20番11-8号に新築移転</td>
+            </tr>
+            <tr>
+              <th>昭和62年
+              <span>1987年</span></th>
+              <td>8月</td>
+              <td>コンクリート構造物の調査業務を開始</td>
+            </tr>
+            <tr>
+              <th>平成4年
+              <span>1992年</span></th>
+              <td>5月<br>
+                6月</td>
+              <td>日本シーレーク株式会社を設立し、非破壊検査工業㈱の業務を移管<br>
+              中部営業所（現中部支店）を名古屋市に開設</td>
+            </tr>
+            <tr>
+              <th>平成15年
+              <span>2003年</span></th>
+              <td>12月</td>
+              <td>中部支店を知多郡阿久比町に移転</td>
+            </tr>
+            <tr>
+              <th>平成18年
+              <span>2006年</span></th>
+              <td>2月<br>
+                4月</td>
+              <td>九州営業所を北九州市小倉北区へ移転<br>
+              岩国営業所を岩国支店へ昇格</td>
+            </tr>
+            <tr>
+              <th>平成20年
+              <span>2008年</span></th>
+              <td>3月</td>
+              <td>岡山営業所を岡山支店へ昇格</td>
+            </tr>
+            <tr>
+              <th>平成22年
+              <span>2010年</span></th>
+              <td>3月</td>
+              <td>本社・中央支店を広島市安佐南区伴西一丁目6番11号に新築移転</td>
+            </tr>
+            <tr>
+              <th>平成23年
+              <span>2011年</span></th>
+              <td>3月</td>
+              <td>新潟営業所を新潟市東区に開設</td>
+            </tr>
+            <tr>
+              <th>平成24年
+              <span>2012年</span></th>
+              <td>10月</td>
+              <td>創立50周年</td>
+            </tr>
+            <tr>
+              <th>平成26年
+              <span>2014年</span></th>
+              <td>3月</td>
+              <td>岡山支店を倉敷市水島西千鳥町1番51号に移転</td>
+            </tr>
+            <tr>
+              <th>平成27年
+              <span>2015年</span></th>
+              <td>3月</td>
+              <td>宇部営業所を宇部市南浜町一丁目6番11号に移転</td>
+            </tr>
+            <tr>
+              <th>平成28年
+              <span>2016年</span></th>
+              <td>3月</td>
+              <td>新潟出張所を新潟市北区松浜町3500 三菱ガス化学(株)内に移転</td>
+            </tr>
+            <tr>
+              <th>令和元年
+              <span>2019年</span></th>
+              <td>5月</td>
+              <td>東部支店を広島県三原市本郷南一丁目2番50号に移転</td>
+            </tr>
+            <tr>
+              <th>令和3年
+              <span>2021年</span></th>
+              <td>11月</td>
+              <td>中部支店を知多郡阿久比町椋岡南畑1-1に移転</td>
+            </tr>
+            <tr>
+              <th>令和4年
+              <span>2022年</span></th>
+              <td>10月</td>
+              <td>創立60周年</td>
+            </tr>
+            <tr>
+              <th>令和5年
+              <span>2023年</span></th>
+              <td>8月</td>
+              <td>西部支店を新築移転（同住所）</td>
+            </tr>
+          </table>
+        </section>
+      </div>
+      <!-- InstanceEndEditable -->
+
+    </article><!-- End #article -->
+  </main><!-- End #main -->
+
+  
+  <div id="side">
+  <!-- InstanceBeginEditable name="side" -->
+  <!-- InstanceEndEditable -->
+  </div><!-- End #side -->
+  
+
+
+</div><!-- End #container -->
+
+
+<footer id="footer">
+<div class="sp-only">
+ <ul class="sp-footer-menu">
+    <li><a href="/works/">事業内容</a></li>
+    <li><a href="/company/">会社案内</a></li>
+    <li><a href="/office/">事業所案内</a></li>
+    <li><a href="/recruit/">採用情報</a></li>
+    <li><a href="/contact/">お問い合わせ</a></li>
+    <li><a href="/assets/pdf/top/CorporateInformation.pdf" target="_blank">パンフレット</a></li>
+  </ul>
+</div>
+
+
+  <div class="footer-inner pc-only">
+    <dl class="footer-nav-01">
+      <dt><a href="/works/">事業内容</a></dt>
+      <dd>
+        <ul>
+          <li><a href="/works/">非破壊検査</a>
+            <ul>
+              <li>内部きず検査
+                <ul>
+                  <li><a href="/works/inner01.html">放射線透過検査</a></li>
+                  <li><a href="/works/inner02.html">超音波探傷検査</a></li>
+                </ul>
+              </li>
+              <li>外部（表面）きず検査
+                <ul>
+                  <li><a href="/works/outer02.html">目視検査</a></li>
+                  <li><a href="/works/outer02.html#outer02-02">浸透探傷検査</a></li>
+                  <li><a href="/works/outer01.html">磁粉探傷検査</a></li>
+                  <li><a href="/works/outer01.html#outer01-02">渦流探傷検査</a></li>
+                </ul>
+              </li>
+            </ul>
+            <ul>
+              <li>特殊検査
+                <ul>
+                  <li><a href="/works/special01.html">スケールチェッカー・コーキング測定</a></li>
+                  <li><a href="/works/special01.html#special01-02">鋼製防護柵の根入れ長測定</a></li>
+                  <li><a href="/works/special02.html">リモートフィールド渦流探傷試験（RFT）</a></li>
+                  <li><a href="/works/special02.html#special02-02">漏れ試験（LT）・レーザー変位計を用いた厚さ測定</a></li>
+                  <li><a href="/works/special03.html">既設建造物調査診断・赤外線計測・焼鈍工事</a></li>
+                  <li><a href="/works/special03.html#special03-03">品質管理スンプ検査・金属成分分析（PMI）</a></li>
+                  <li><a href="/works/special04.html">地中レーダー調査</a></li>
+                  <li><a href="/works/special04.html#special04-02">コンクリート構造物調査・鉄筋探査・余寿命診断</a></li>
+                </ul>
+              </li>
+            </ul>
+            <ul>
+              <li>その他
+                <ul>
+                  <li><a href="/works/others.html">メンテナンス業務・技術開発業務</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </dd>
+    </dl>
+    <dl class="footer-nav-02">
+      <dt><a href="/company/">会社案内</a></dt>
+      <dd>
+        <ul>
+          <li><a href="/company/">ご挨拶</a></li>
+          <li><a href="/company/#profile">会社概要</a></li>
+          <li><a href="/company/#history">沿革</a></li>
+        </ul>
+      </dd>
+    </dl>
+    <dl class="footer-nav-03">
+      <dt><a href="/office/">事業所案内</a></dt>
+      <dd>
+        <ul>
+          <li><a href="/office/">事業所案内</a></li>
+        </ul>
+      </dd>
+    </dl>
+    <dl class="footer-nav-04">
+      <dt><a href="/recruit/">採用情報</a></dt>
+      <dd>
+        <ul>
+          <li><a href="/recruit/">採用活動方針・人材育成</a></li>
+          <li><a href="/recruit/#disabilities">障がい者雇用について</a></li>
+          <li><a href="/recruit/application.html">募集要項・エントリーシート</a></li>
+        </ul>
+      </dd>
+    </dl>
+    <ul class="footer-nav-05">
+      <li><a href="/info/">新着情報</a></li>
+      <li><a href="/contact/">お問い合わせ</a></li>
+      <li><a href="/privacy/">プライバシーポリシー</a></li>
+      <li class="inline"><a href="/privacy/#action-plan">一般事業主行動計画</a>・<a href="/privacy/#woman-activity">女性の活躍</a></li>
+      <li><a href="/dispatch/">派遣元（派遣会社）として</a></li>
+    </ul>
+  </div>
+  <p class="footer-pagetop"><a href="#header"><span>PAGETOP</span></a></p>
+  <p class="sp-footer-logo sp-only"><a href="/sp/"><img src="/assets/img/common/footer-logo-sp.png" alt="日本シーレーク株式会社"></a></p>
+  <p class="footer-copyright">COPYRIGHT &copy; NIHON SEALAKE CO.,LTD. ALL RIGHTS RESERVED.</p>
+</footer><!-- End footer -->
+
+
+<!-- js -->
+<script src="/assets/js/common.js"></script>
+<!-- InstanceBeginEditable name="js" -->
+<!-- InstanceEndEditable -->
+</body>
+<!-- InstanceEnd --></html>
